@@ -1,0 +1,6 @@
+1. undirected graph is similar at diagonal
+hints to know it is the graph question-->
+if enitiy is numbered then it must be a grpah question.
+2.if a relation or edge is ther in the question then it must be a graph question.
+
+dfs and bfs is t.c.=o(N)+o(2E)degree of all node.
